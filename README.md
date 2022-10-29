@@ -4,8 +4,8 @@
    <p>Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão! </p>
 </div><br>
 <div align="center">
-   <a href="https://github.com/Andresavieira28"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresavieira28&layout=compact&langs_count=7&theme=dark"/>
-  <a href="https://github.com/Andresavieira28"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andresavieira28&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/Andresavieira28"><img height="200px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresavieira28&layout=compact&langs_count=7&theme=dark"/> 
+  <a href="https://github.com/Andresavieira28"><img height="180em" width="300px" src="https://github-readme-stats.vercel.app/api?username=Andresavieira28&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div><br>
 <div>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
