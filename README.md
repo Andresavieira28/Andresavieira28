@@ -28,4 +28,6 @@
    </p>
 </div>
 
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andresavieira28&theme=radical)
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andresavieira28&theme=radical)
 </div>
