@@ -20,3 +20,12 @@
   <a href ="mailto:andresacvieira28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andresa-vieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logColor=white" target="_blank"></a>
 </div>
+<div>
+      # 📊 GitHub Stats
+   
+   <p align="center">
+     <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andresavieira28&theme=radical" />
+   </p>
+</div>
+
+</div>
